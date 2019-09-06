@@ -27,4 +27,8 @@
 * Scaling vectors is multiplying the -> or effect on vectors upon multiplying
 * 
 # SETS: 
+* We write sets in {and} and list the objects inside : {1,2,3} which could be read out loud like the set containing the elements 1,2 and 3.
+* ∈ i used to specify that something is an element of as set. 3 ∈ {1,2,3} 4 ∈/ {1,2,3}.
+* It is traditional to use capital letter A={} to name sets.
+
 
