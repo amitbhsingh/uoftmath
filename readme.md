@@ -31,4 +31,10 @@
 * ∈ i used to specify that something is an element of as set. 3 ∈ {1,2,3} 4 ∈/ {1,2,3}.
 * It is traditional to use capital letter A={} to name sets.
 
-
+# Type of numbers:
+Null= {}, the empty set
+N= {0,1,2,3,...} = {natural numbers}
+Z = {...,−3,−2,−1,0,1,2,3,...} = {integers} 
+Q = {rational numbers}
+R= {real numbers}
+R^n = {vectors in n-dimensional Euclidean space}
